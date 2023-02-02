@@ -29,6 +29,9 @@ function PasswordValue() {
     num2.classList.remove("fa-dot-circle");
     num2.classList.add("fa-circle-check");
   } else {
+
+
+
     
     num2.classList.add("fa-dot-circle");
     num2.classList.remove("fa-circle-check");
